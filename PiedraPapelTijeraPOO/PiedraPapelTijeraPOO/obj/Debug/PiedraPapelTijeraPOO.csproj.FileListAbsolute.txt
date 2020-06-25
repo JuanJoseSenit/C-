@@ -1,0 +1,7 @@
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\obj\Debug\PiedraPapelTijeraPOO.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\obj\Debug\PiedraPapelTijeraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\bin\Debug\PiedraPapelTijeraPOO.exe.config
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\bin\Debug\PiedraPapelTijeraPOO.exe
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\bin\Debug\PiedraPapelTijeraPOO.pdb
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\obj\Debug\PiedraPapelTijeraPOO.exe
+C:\Users\Juanjo\source\repos\PiedraPapelTijeraPOO\PiedraPapelTijeraPOO\obj\Debug\PiedraPapelTijeraPOO.pdb

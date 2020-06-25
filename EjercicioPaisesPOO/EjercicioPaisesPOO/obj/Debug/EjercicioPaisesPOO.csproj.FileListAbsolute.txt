@@ -1,0 +1,7 @@
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\bin\Debug\EjercicioPaisesPOO.exe.config
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\bin\Debug\EjercicioPaisesPOO.exe
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\bin\Debug\EjercicioPaisesPOO.pdb
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\obj\Debug\EjercicioPaisesPOO.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\obj\Debug\EjercicioPaisesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\obj\Debug\EjercicioPaisesPOO.exe
+C:\Users\Juanjo\source\repos\EjercicioPaisesPOO\EjercicioPaisesPOO\obj\Debug\EjercicioPaisesPOO.pdb
